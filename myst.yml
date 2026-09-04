@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c80366ba-e8b5-4a64-800a-31a160d90acf
+  title: Applied Process Optimization - 1
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/kmygroup/Applied-Process-Optimization-for-Chemical-Engineers
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options: 
+  navbar_open: True
+  TOC:
+  - file: index.md
+  - file: 1_Welcome_Module.md
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
